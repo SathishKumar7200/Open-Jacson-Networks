@@ -3,6 +3,10 @@
 
 EXP NO: 06
 
+NAME : Sathish kumar .M
+
+REF NO : 24900774
+
 
 
 # Series Queues with infinite capacity - Open Jackson Network
@@ -33,10 +37,7 @@ Visual components and Python
 
 
 ## Program
-Developed By : Sathish Kumar.M
 
-
-Reference No:24900774
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
